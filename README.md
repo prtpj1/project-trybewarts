@@ -31,4 +31,12 @@ O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já qu
 
 2. Inicie a aplicação: <br>
 `abra no seu navegador o arquivo index.html` 
-<br>
+</br>
+</br>
+
+**OBS:**
+</br>
+*Na época que fiz este projeto eu ainda não conhecia os Conventional Commits. Somente a partir do módulo de BackEnd do curso da Trybe que aprendi e comecei a fazer commits melhores.
+</br>
+</br>
+Em breve estarei disponibilizando também os projetos dos módulos de **BackEnd** e **Ciência da Computação***
