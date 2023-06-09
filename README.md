@@ -25,11 +25,11 @@ O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já qu
 [Site do Projeto](https://prtpj1.github.io/project-trybewarts/)
 
 ## Como rodar a aplicação?
-
-1. Clone o repositório: <br>
+- Clone o repositório: <br>
 `git clone git@github.com:prtpj1/project-trybewarts.git` 
-
-2. Inicie a aplicação: <br>
+- Acesse a pasta do projeto: <br>
+`cd project-trybewarts`
+- Inicie a aplicação: <br>
 `abra no seu navegador o arquivo index.html` 
 </br>
 </br>
